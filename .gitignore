@@ -1,0 +1,6 @@
+Makefile
+XLCD/
+build/
+dist/
+nbproject/
+
